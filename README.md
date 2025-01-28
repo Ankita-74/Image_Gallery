@@ -1,1 +1,2 @@
-# Image_Gallery
+# image-gallery
+using html, css and js 
